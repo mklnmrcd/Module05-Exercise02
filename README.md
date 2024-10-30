@@ -10,3 +10,25 @@ Date Submitted: 10/30/2024
 
 # OUTPUT SCREENSHOT:
 
+MainPage
+![Screenshot 2024-10-30 225302](https://github.com/user-attachments/assets/13ab5f57-0bb0-4eac-aa18-79128a76c310)
+![Screenshot 2024-10-30 225312](https://github.com/user-attachments/assets/59268f9a-fb24-4279-8ff1-2c13e4cd8292)
+
+Employee Page
+![Screenshot 2024-10-30 225330](https://github.com/user-attachments/assets/cd11cf84-634d-4249-8816-94c960f9c575)
+![Screenshot 2024-10-30 225339](https://github.com/user-attachments/assets/bbce9a5b-af70-4e8e-afd4-4a332c80c8c8)
+![Screenshot 2024-10-30 225237](https://github.com/user-attachments/assets/2c59c214-c75c-4d5e-b495-f6a6c9b52389)
+
+![Screenshot 2024-10-30 225453](https://github.com/user-attachments/assets/60fefe5f-36b4-4598-af9f-0f9c05ac789b)
+![Screenshot 2024-10-30 225503](https://github.com/user-attachments/assets/d37550a8-570b-448e-bca2-9476ed00fa3d)
+![Screenshot 2024-10-30 225516](https://github.com/user-attachments/assets/0db251e8-e197-4f62-a3dd-7e092cb41e4e)
+![Screenshot 2024-10-30 225526](https://github.com/user-attachments/assets/717ff766-d390-4182-aa6f-3deee88de6a6)
+![Screenshot 2024-10-30 225543](https://github.com/user-attachments/assets/3a79e66e-197b-491c-abcd-743f0d8f183a)
+![Screenshot 2024-10-30 225555](https://github.com/user-attachments/assets/6e39517d-0b32-4e60-a452-98492a39755d)
+![Screenshot 2024-10-30 225626](https://github.com/user-attachments/assets/6fc81f2e-c0bc-4027-9df1-b456ab9d6b96)
+![Screenshot 2024-10-30 225654](https://github.com/user-attachments/assets/6b94e941-5265-4acc-8ca1-43746a268752)
+![Screenshot 2024-10-30 225704](https://github.com/user-attachments/assets/fd1da564-f16a-4faa-b3e6-dab8bab15eb3)
+![Screenshot 2024-10-30 225713](https://github.com/user-attachments/assets/a5221687-434c-42ed-90cb-9d9f46c850c7)
+![Screenshot 2024-10-30 225727](https://github.com/user-attachments/assets/75e2ab75-5d54-4a1a-91fb-297041955ef7)
+![Screenshot 2024-10-30 225734](https://github.com/user-attachments/assets/dae31b6b-17e0-44c8-af42-0d3a44405da7)
+![Screenshot 2024-10-30 225748](https://github.com/user-attachments/assets/4c2b1214-21a1-4d7a-8516-e4440fe5af94)
