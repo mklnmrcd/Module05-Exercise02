@@ -8,7 +8,10 @@ Activity Title: Module05-Exercise02
 
 Date Submitted: 10/30/2024
 
+
+
 ## OUTPUT SCREENSHOT:
+
 
 ### MainPage
 
@@ -22,7 +25,9 @@ Date Submitted: 10/30/2024
 
 ![Screenshot 2024-10-30 234102](https://github.com/user-attachments/assets/b452c859-cce2-44f6-bee7-987d8933e647)
 
+
 ## ViewEmployee
+
 
 ![Screenshot 2024-10-30 225330](https://github.com/user-attachments/assets/cd11cf84-634d-4249-8816-94c960f9c575)
 ![Screenshot 2024-10-30 225339](https://github.com/user-attachments/assets/bbce9a5b-af70-4e8e-afd4-4a332c80c8c8)
@@ -38,6 +43,7 @@ Date Submitted: 10/30/2024
 
 ## ViewEmployee - Adding an Employee
 
+
 ![Screenshot 2024-10-30 225453](https://github.com/user-attachments/assets/60fefe5f-36b4-4598-af9f-0f9c05ac789b)
 ![Screenshot 2024-10-30 225503](https://github.com/user-attachments/assets/d37550a8-570b-448e-bca2-9476ed00fa3d)
 
@@ -50,16 +56,22 @@ Date Submitted: 10/30/2024
 
 ![Screenshot 2024-10-30 225543](https://github.com/user-attachments/assets/3a79e66e-197b-491c-abcd-743f0d8f183a)
 
+
 ## ViewEmployee - Some fields are empty.
+
 
 ![Screenshot 2024-10-30 233005](https://github.com/user-attachments/assets/3da4c475-24a5-4c86-a128-6cc08ee01d5e)
 ![Screenshot 2024-10-30 233019](https://github.com/user-attachments/assets/010d1701-4f44-46a9-a03a-aa49e5fcf19c)
+
 
 ## ViewEmployee - Employee selected
 ![Screenshot 2024-10-30 225555](https://github.com/user-attachments/assets/6e39517d-0b32-4e60-a452-98492a39755d)
 ![Screenshot 2024-10-30 225626](https://github.com/user-attachments/assets/6fc81f2e-c0bc-4027-9df1-b456ab9d6b96)
 
+
 ## ViewEmployee - Deleting an Employee
+
+
 ![Screenshot 2024-10-30 225654](https://github.com/user-attachments/assets/6b94e941-5265-4acc-8ca1-43746a268752)
 ![Screenshot 2024-10-30 225704](https://github.com/user-attachments/assets/fd1da564-f16a-4faa-b3e6-dab8bab15eb3)
 
