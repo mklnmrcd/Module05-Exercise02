@@ -10,22 +10,12 @@ Date Submitted: 10/30/2024
 
 
 
-## OUTPUT SCREENSHOT:
+# OUTPUT SCREENSHOT:
 
 
-### MainPage
+## MainPage
 
 ![Screenshot 2024-10-30 225302](https://github.com/user-attachments/assets/13ab5f57-0bb0-4eac-aa18-79128a76c310)
-
-
-### MainPage - Test Connection
-
-![Screenshot 2024-10-30 225312](https://github.com/user-attachments/assets/59268f9a-fb24-4279-8ff1-2c13e4cd8292)
-
-
-### MainPage - Test Connection (Failed)
-
-![Screenshot 2024-10-30 234102](https://github.com/user-attachments/assets/b452c859-cce2-44f6-bee7-987d8933e647)
 
 
 
@@ -39,12 +29,6 @@ Date Submitted: 10/30/2024
 ### Database
 
 ![Screenshot 2024-10-30 225237](https://github.com/user-attachments/assets/2c59c214-c75c-4d5e-b495-f6a6c9b52389)
-
-
-### ViewEmployee - No Connection
-
-![Screenshot 2024-10-30 234139](https://github.com/user-attachments/assets/42eaaed1-76a8-44c4-9020-a98e77ae9ab3)
-
 
 
 ## ViewEmployee - Adding an Employee
@@ -104,3 +88,23 @@ Date Submitted: 10/30/2024
 ### Successfully deleted the employee from the database
 
 ![Screenshot 2024-10-30 225748](https://github.com/user-attachments/assets/4c2b1214-21a1-4d7a-8516-e4440fe5af94)
+
+
+
+
+### MainPage - Test Connection
+
+![Screenshot 2024-10-30 225312](https://github.com/user-attachments/assets/59268f9a-fb24-4279-8ff1-2c13e4cd8292)
+
+
+### MainPage - Test Connection (Failed)
+
+![Screenshot 2024-10-30 234102](https://github.com/user-attachments/assets/b452c859-cce2-44f6-bee7-987d8933e647)
+
+
+### ViewEmployee - No Connection
+
+![Screenshot 2024-10-30 234139](https://github.com/user-attachments/assets/42eaaed1-76a8-44c4-9020-a98e77ae9ab3)
+
+
+
